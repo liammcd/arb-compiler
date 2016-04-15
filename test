@@ -1,0 +1,13 @@
+{
+	const vec4 red = vec4(1.0,0.0,0.0,1.0);
+	const float blue = 1;
+   	vec4 fCol = gl_Color;
+	int hithere;
+	int hello = 1;
+	int goodbye = 2;
+	hello = goodbye;
+	hello = rsq(1);
+	hello = goodbye / 3;
+	hithere = !hello;
+
+}
