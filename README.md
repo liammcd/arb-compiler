@@ -1,7 +1,7 @@
 Liam McDermott
 liam.mcdermott@mail.utoronto.ca	
 
-Compiler for ARB shader language
+Compiler for ARB shader language. Uses lex and bison for lexical scanning and parsing.
 
 Run make first.
 
